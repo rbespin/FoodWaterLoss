@@ -9,5 +9,6 @@ using different methods(?) and computing the average weight lost after cooking
 the chicken. The program asks for the chicken inputs, writes the inputs
 to a separate file, and reads this file to compute the average weight lost.
 Using this weight lost value, the program returns the accompanying 
-chicken macro values.
+chicken macro values. 
+To run this program, execute GuiFoods
 
